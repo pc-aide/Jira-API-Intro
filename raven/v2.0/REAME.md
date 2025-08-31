@@ -5,7 +5,7 @@
 ## ?
 |n|name|e.g.|O/P|
 |-|----|----|---|
-|1|?|<ins>syntax</ins><br/>`GET /rest/raven/2.0/api/testrun?testExecIssueKey=<TE_KEY>&testIssueKey=<TEST_KEY>`
+|1|?|<ins>Syntax</ins><br/>`GET /rest/raven/2.0/api/testrun?testExecIssueKey=<TE_KEY>&testIssueKey=<TEST_KEY>`<br/><br/>`GET https://jira.pcaide.com/rest/raven/2.0/api/testrun?testExecIssueKey=PLATEFORME-821&testIssueKey=AVTECH-101`|
 
 ---
 
